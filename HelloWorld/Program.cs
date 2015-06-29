@@ -11,6 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Testing 1");
+            Console.WriteLine("Testing 2");
         }
     }
 }
